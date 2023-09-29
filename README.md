@@ -1,2 +1,2 @@
-# AFIP_CAE
-Renombrar facturas bajadas de Afip con codigo CAE asociado 
+# AFIP CAE
+Programa para renombrar facturas bajadas de Afip con codigo el CAE asociado 
