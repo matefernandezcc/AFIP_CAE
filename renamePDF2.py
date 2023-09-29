@@ -37,5 +37,5 @@ def rename_and_move_pdf_files(source_folder, dest_folder):
 if __name__ == "__main__":
     source_folder = r"C:\Users\Mateo\Desktop\code\AFIP_CAE\ejemplos"  # Replace with the path to your folder of PDF files
     dest_folder = r"C:\Users\Mateo\Desktop\code\AFIP_CAE\ejemplos\Renombradas"  # Destination folder
-    rename_and_move_pdf_files(source_folder, dest_folder)
+    rename_and_move_pdf_files(source_folder, dest_folder) 
 
