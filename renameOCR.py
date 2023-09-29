@@ -33,5 +33,5 @@ def rename_pdf_files_with_ocr(folder_path):
                 print(f"Renamed '{filename}' to '{new_filename}'")
 
 if __name__ == "__main__":
-    folder_path = "C:\Users\Mateo\Desktop\code\AFIP_CAE\ejemplos"  # Replace with the path to your folder of PDF files
+    folder_path = r"C:\Users\Mateo\Desktop\code\AFIP_CAE\ejemplos"  # Replace with the path to your folder of PDF files
     rename_pdf_files_with_ocr(folder_path)
