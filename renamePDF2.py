@@ -2,6 +2,7 @@ import os
 import re
 import pdfplumber
 import shutil
+
 # Function to extract the 14-digit number from a PDF file
 def extract_number(pdf_file):
     text = ""
